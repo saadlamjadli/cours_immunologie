@@ -1,0 +1,14 @@
+baseurl: https://example.com/
+title: Acceuil
+theme: hugo-theme-console
+languageCode: en-us
+params:
+  animateStyle: animated zoomIn fast
+  navlinks:
+    - name: A propos/
+      url: about/
+    - name: Cours/
+      url: posts/
+    - name: Grade-QCM/
+      url: photos/
+  titleCutting: yes
