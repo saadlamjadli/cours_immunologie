@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PROGRAMME DE FORMATION - RESIDANAT EN IMMUNOLOGIE on Acceuil</title>
+    <link>https://example.com/posts/</link>
+    <description>Recent content in PROGRAMME DE FORMATION - RESIDANAT EN IMMUNOLOGIE on Acceuil</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Le programme de la foramtion en immunologie fondamentale</title>
+      <link>https://example.com/posts/fondamentale/</link>
+      <pubDate>Sun, 24 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/fondamentale/</guid>
+      <description>Le récepteur T de l&#39;antigène (TCR)Télecharger le cours
+Les récepteurs de l&#39;immunité innéeTélecharger le cours
+Les CytokinesTélecharger le cours </description>
+    </item>
+    
+    <item>
+      <title>Le programme de la foramtion en immunomodulation</title>
+      <link>https://example.com/posts/immunomodulation/</link>
+      <pubDate>Sun, 24 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/immunomodulation/</guid>
+      <description>Anticorps monoclonaux
+Télecharger le cours Greffe de cellules souches hématopoiétiques : effets GVH et GVL Télecharger le cours Immunoglobulines intraveineuses Télecharger le cours Greffe rénale : mécanismes immunopathologiques des rejets de greffes Télecharger le cours Stratégies immunothérapeutiques des maladies auto-immunes Télecharger le cours</description>
+    </item>
+    
+    <item>
+      <title>Le programme de la foramtion en immunopathologie</title>
+      <link>https://example.com/posts/immunopathologie/</link>
+      <pubDate>Sun, 24 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/immunopathologie/</guid>
+      <description>Les vascularites à ANCATélecharger le coursLes anémie AutoimmuneTélecharger le coursL&#39;immunité anti-tumoraleTélecharger le coursLes cryoglobulinémiesTélecharger le coursLes deficits immunitaires secondairesTélecharger le coursLes gammapathies monoclonalesTélecharger le coursLes héptites autoimmunesTélecharger le coursHypersensibilité retardéeTélecharger le coursLe syndrome de Gougerot-SjogrenTélecharger le coursLe lupus érythémateux disséminéTélecharger le coursLa polyarthrite rhumatoideTélecharger le coursLe syndrome des anti-phospholipidesTélecharger le coursLes Syndromes lymphoproliférativesTélecharger le coursLes thyroidites autoimmunesTélecharger le cours</description>
+    </item>
+    
+  </channel>
+</rss>
