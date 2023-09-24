@@ -2,6 +2,7 @@ baseurl: https://cours-immunologie.netlify.app/
 title: Acceuil
 theme: hugo-theme-console
 languageCode: en-us
+googleAnalytics: GTM-M6QH8WJ8
 params:
   animateStyle: animated zoomIn fast
   navlinks:
